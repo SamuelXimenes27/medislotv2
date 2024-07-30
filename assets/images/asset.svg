@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 289.08">
+   <defs>
+      <radialGradient id="radial-gradient" cx="-407.47" cy="674.87" r="1.31" gradientTransform="matrix(90.38, 280.7, 605.63, -115.92, -371895.91, 192595.3)" gradientUnits="userSpaceOnUse">
+         <stop offset="0" stop-color="#3de5eb" />
+         <stop offset="1" stop-color="#9623e3" />
+      </radialGradient>
+   </defs>
+   <title>Asset 1</title>
+   <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_1-2" data-name="Layer 1">
+         <path id="Caminho_2343" data-name="Caminho 2343" fill="url(#radial-gradient)" d="M0,0H375V212.64S322.31,257,226.93,275.4,0,288.34,0,288.34Z" />
+      </g>
+   </g>
+</svg>

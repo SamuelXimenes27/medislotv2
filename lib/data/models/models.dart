@@ -1,0 +1,16 @@
+export './account_model.dart';
+export './book_appointment_param_model.dart';
+export './district_model.dart';
+export './get_cities_model.dart';
+export './get_clinic_model.dart';
+export './history_model.dart';
+export './insurer_model.dart';
+export './payment/payment.dart';
+export './professional_model.dart';
+export './profile_model.dart';
+export './rate_appointment_params_model.dart';
+export './remote_authentication_params.dart';
+export './review_model.dart';
+export './schedule_model.dart';
+export './speciality_model.dart';
+export './upcoming_model.dart';

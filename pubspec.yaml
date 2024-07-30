@@ -1,0 +1,44 @@
+name: medislot
+description: Medislot - Medical Booking App
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  carousel_slider: ^4.0.0
+  cupertino_icons: ^1.0.2
+  # geolocator: ^8.0.1
+  http: ^0.13.4
+  intl: ^0.17.0
+  url_launcher: ^6.1.0
+  equatable: ^2.0.5
+  flutter_secure_storage: ^6.0.0
+  get: ^4.6.5
+  provider: ^6.1.2
+  device_info_plus: ^4.0.0
+  webview_flutter: ^2.0.16
+  flutter_webrtc:
+  web_socket_channel: ^2.2.0
+  flutter_rating_bar: ^4.0.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/ui/assets/imgs/
+
+
+  fonts:
+    - family: Roboto-Regular
+      fonts:
+        - asset: lib/ui/assets/fonts/Roboto-Regular.ttf

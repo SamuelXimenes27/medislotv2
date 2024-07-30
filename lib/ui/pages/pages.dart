@@ -1,0 +1,11 @@
+export './clinic/clinic.dart';
+export './history/history.dart';
+export './home/home.dart';
+export './login/login.dart';
+export './make_appointment/make_appointment.dart';
+export './payment/payment.dart';
+export './profile/profile.dart';
+export './result_clinics/result_clinics.dart';
+export './splash/splash.dart';
+export './upcoming/upcoming.dart';
+export './video_call/video_call.dart';

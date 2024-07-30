@@ -1,0 +1,9 @@
+export './getx_clinic_presenter.dart';
+export './getx_history_presenter.dart';
+export './getx_home_presenter.dart';
+export './getx_login_presenter.dart';
+export './getx_make_appointment_presenter.dart';
+export './getx_profile_presenter.dart';
+export './getx_result_clinics_search_presenter.dart';
+export './getx_splash_presenter.dart';
+export './getx_upcoming_presenter.dart';
